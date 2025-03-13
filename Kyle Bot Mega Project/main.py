@@ -110,4 +110,4 @@ async def prefix(ctx, prefix):
       json.dump(prefixes, f, indent=4)
    await ctx.send(f"Succesfully Changed Bot Prefix")
 
-bot.run("MTM0ODk1NTQ3NzczMTU3Nzg2Ng.GjWvkZ.DVFDxoDE3tAaqC57kJLkvH8rGKiFNEYZ6yb01s")
+bot.run("TOKEN")
